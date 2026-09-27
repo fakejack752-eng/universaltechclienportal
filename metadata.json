@@ -1,0 +1,6 @@
+{
+  "name": "Universal Tech Client Portal",
+  "description": "Secure enterprise client portal for Universal Tech INC. Manage staffing, consulting, IT development, and AI automation projects, deliverables, documents, billing, and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
